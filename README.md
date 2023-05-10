@@ -1,4 +1,4 @@
-### William Nguyen
+# William Nguyen
 
 Hello, I am William, a third year undergraduate student at the [University of British Columbia](https://ubc.ca) currently pursuing a combined bachelors of computer science and business. My dream is to improve the world through the power of code!
 
