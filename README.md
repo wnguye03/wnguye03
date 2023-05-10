@@ -15,7 +15,7 @@ Hello, I am William, a third year undergraduate student at the [University of Br
 -  Finishing up my advanced software engineering residency at [Codesmith](https://www.codesmith.io/)
 -  Particiapting in hackathons and working on side projects
 
-##Get in touch
+## Get in touch
 Reach out to me through [Linkdeln](www.linkedin.com/in/william-nguyen202103) or via email (william.nguyen202103@gmail.com). I am always seeking new oppertunities to pursue a side project with a group of talented software engineers or to learn about emerging technologies!
 
 
