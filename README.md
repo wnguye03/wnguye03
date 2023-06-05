@@ -3,7 +3,7 @@
 Hello, I am William, a third year undergraduate student at the [University of British Columbia](https://ubc.ca) currently pursuing a combined bachelors of computer science and business. My dream is to improve the world through the power of code!
 
 ## What I am up to
-- I am currently interning as an engineer at P&G on the North American Trade Investment Solutions team
+- I am currently interning as an software engineer at P&G on the North American Trade Investment Solutions team
 
 ## What I've done
 - Worked as a software developer at [Dyne](https://www.dyneapp.ca/), a fast growing restaurent management SaaS startup, with React, Typescript, Next.js, and Chakra UI
