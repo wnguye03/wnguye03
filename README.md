@@ -3,9 +3,10 @@
 Hello, I am William, a fourth-year undergraduate student at the [University of British Columbia](https://ubc.ca) pursuing a combined bachelor's in computer science and business. My dream is to improve the world through the power of code!
 
 ## What I am up to
-- I will be interning at AWS this summer!
+- To Be Announced!
 
 ## What I've done
+- Worked as a SDE intern at AWS on the Payments Region Build Team, accelerating new region rollouts.
 - Worked as a SWE intern at 1Password on the Onboarding & Activation team, helping first-time users become lifelong customers!
 - Worked as a SWE intern at P&G on the North American Trade Investment Solutions team, working on distributed systems. 
 - Worked as a software engineer at NextInspect, an open-source application that allows developers to have observability into their SSG/SSR components in Next.js, powered by OpenTelemetry.
